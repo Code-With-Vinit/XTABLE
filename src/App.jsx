@@ -1,10 +1,10 @@
-// import { useState } from 'react'
+import XTable from "./XTable"
 
 function App() {
 
   return (
     <>
-      <h1>XTABLE</h1>
+      <XTable/>
     </>
   )
 }
